@@ -21,11 +21,10 @@ Each PC belongs to a different VLAN and network.
 
 
 
-```## Network Topology
+
+
 
 ![Network Topology](topology.png)
-```
-
 ---
 
 ## Technologies Used
